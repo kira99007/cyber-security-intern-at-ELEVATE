@@ -241,3 +241,30 @@ Crack the key if it’s reused or weak (lab only)
 Downgrade attacks (man-in-the-middle with key reuse)
 
 
+
+
+
+
+
+# task 2 Analyze a Phishing Email Sample.
+open my mail id and go to spam
+in:spam 
+from:	info@mytrueancestry.com
+to:	skar99007@gmail.com
+date:	Jun 18, 2025, 8:56 AM
+subject:	🔥☀️🔥 Mid Summer Early Bird Sale - NEW DNA Spotlight: Royal Macedonian Tombs plus Updated Piast Dynasty - NEW Exciting Samples: Piast Dynasty, Royal Tombs Macedonia, Bronze Age Germany, Celtic Britain, Gallic France, Bronze Age Scandinavia, Iron Age Denmark, Bog Sekeltons of Denmark, Carthaginian Sicily, Danii Tribe, Viking Age Denmark, Alans, Sarmatians and more - Upload your DNA for FREE Today and Discover if you have Royal Ties to 561 Noble and Royal Families or match one of over 12,500 Ancient Individuals
+mailed-by:	em8284.mytrueancestry.com
+signed-by:	mytrueancestry.com
+security:	 Standard encryption (TLS) Learn more
+GO TO MORE OPTION AND CLICK ON SHOW ORIGINALS
+COPY THE BODY AND PASTE IT FOR ANALYZE IN THIS SITE https://www.whatismyip.com/email-header-analyzer/
+# RESULT 
+Email Source IP Info
+The Email Source IP Address is 159.183.119.189
+The Email Source Hostname is o1.ptr7362.mytrueancestry.com
+ASN: 11377
+City: San Francisco
+State/Region: California
+Country: United States of America
+Postal Code: 94105
+ISP: Twilio SendGrid
