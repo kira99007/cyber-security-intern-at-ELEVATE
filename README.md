@@ -280,3 +280,29 @@ State/Region:California
 City:San Francisco
 Latitude:37.7749 (37° 46′ 29.74″ N)
 Longitude:-122.4194 (122° 25′ 9.90″ W
+
+
+
+# task3
+Install Nessus on your system: https://www.tenable.com/downloads/nessus
+2. Activate with a Professional or Essentials license.
+3. Create a scan (Basic Network Scan, Advanced Scan, etc.).
+4. Export results as:
+   - nessus` (XML)
+   - .pdf` (for reports)
+
+
+metasploit server 192.168.0.102
+
+| Severity | Count |
+|----------|-------|
+| Critical | 2     |
+| High     | 5     |
+| Medium   | 12    |
+| Low      | 22    |
+
+
+
+Critical Vulnerabilities
+- OpenSSH 6.6 - CVE-2015-5600 (Keyboard-interactive brute force)
+- Apache 2.4.29 - Remote Code Execution
