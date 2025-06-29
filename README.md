@@ -244,7 +244,7 @@ Downgrade attacks (man-in-the-middle with key reuse)
 
 
 
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 # task 2 Analyze a Phishing Email Sample.
 open my mail id and go to spam
